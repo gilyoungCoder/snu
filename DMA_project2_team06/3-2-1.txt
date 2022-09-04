@@ -1,0 +1,60 @@
+User ID ffca7b070c9d41e98eba01d23a920d52 top-10 results
+Item ID telecommunications	score 4.875
+Item ID project-management	score 4.675
+Item ID marketing-and-advertising	score 4.575
+Item ID leadership	score 4.55
+Item ID information-technology-and-services	score 4.525
+Item ID sales	score 4.3
+Item ID education-management	score 4.3
+Item ID tech	score 3.875
+Item ID financial-services	score 3.825
+Item ID marketing	score 3.775
+
+User ID ffdb001850984ce69c5f91360ac16e9c top-10 results
+Item ID information-technology-and-services	score 5.05
+Item ID telecommunications	score 4.975
+Item ID project-management	score 4.875
+Item ID marketing-and-advertising	score 4.7
+Item ID programming	score 4.175
+Item ID leadership	score 4.15
+Item ID education-management	score 3.925
+Item ID tech	score 3.875
+Item ID sales	score 3.85
+Item ID teacher	score 3.7
+
+User ID ffdccaff893246519b64d76c3561d8c7 top-10 results
+Item ID telecommunications	score 5.05
+Item ID education-management	score 4.775
+Item ID project-management	score 4.775
+Item ID information-technology-and-services	score 4.625
+Item ID leadership	score 4.525
+Item ID sales	score 4.425
+Item ID management	score 3.85
+Item ID marketing-and-advertising	score 3.75
+Item ID information-technology	score 3.675
+Item ID teacher	score 3.425
+
+User ID ffe2f26d5c174e13b565d026e1d8c503 top-10 results
+Item ID project-management	score 4.925
+Item ID telecommunications	score 4.875
+Item ID information-technology-and-services	score 4.6
+Item ID sales	score 4.575
+Item ID education-management	score 4.575
+Item ID financial-services	score 4.325
+Item ID marketing-and-advertising	score 4.275
+Item ID leadership	score 4.0
+Item ID teacher	score 3.825
+Item ID accounting	score 3.675
+
+User ID ffffbe8d854a4a5a8ab1a381224f5b80 top-10 results
+Item ID telecommunications	score 4.925
+Item ID project-management	score 4.9
+Item ID sales	score 4.8
+Item ID leadership	score 4.725
+Item ID information-technology-and-services	score 4.575
+Item ID education-management	score 4.55
+Item ID management	score 4.4
+Item ID financial-services	score 4.275
+Item ID information-technology	score 3.975
+Item ID tech	score 3.875
+

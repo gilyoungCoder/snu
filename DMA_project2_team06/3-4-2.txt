@@ -1,0 +1,60 @@
+User ID ffca7b070c9d41e98eba01d23a920d52 top-10 results
+Item ID telecommunications	score 5.234803488328809
+Item ID project-management	score 4.959519189539469
+Item ID information-technology-and-services	score 4.551358616453592
+Item ID education-management	score 4.254622429040985
+Item ID sales	score 4.247478721878327
+Item ID leadership	score 4.1608534434684685
+Item ID financial-services	score 4.003026764065514
+Item ID information-technology	score 3.881980006912531
+Item ID marketing-and-advertising	score 3.728860895878611
+Item ID programming	score 3.662340243951447
+
+User ID ffdb001850984ce69c5f91360ac16e9c top-10 results
+Item ID telecommunications	score 4.357293146796568
+Item ID information-technology-and-services	score 4.198524184646443
+Item ID leadership	score 3.780721334216807
+Item ID project-management	score 3.3383281832602067
+Item ID sales	score 3.2523595950850726
+Item ID education-management	score 3.184372758634354
+Item ID human-resources	score 3.0810237718757176
+Item ID marketing-and-advertising	score 3.0230724604851584
+Item ID financial-services	score 3.014763481907736
+Item ID programming	score 2.9514248234663767
+
+User ID ffdccaff893246519b64d76c3561d8c7 top-10 results
+Item ID telecommunications	score 5.092711358566868
+Item ID leadership	score 4.811627476169922
+Item ID project-management	score 4.671639293312861
+Item ID information-technology-and-services	score 4.625690681748858
+Item ID sales	score 4.3827254761958825
+Item ID information-technology	score 4.219512787105868
+Item ID marketing-and-advertising	score 4.203037899823476
+Item ID marketing	score 4.084605948119361
+Item ID research	score 4.053920569939303
+Item ID management	score 4.052144976478001
+
+User ID ffe2f26d5c174e13b565d026e1d8c503 top-10 results
+Item ID telecommunications	score 5.198711420317616
+Item ID information-technology-and-services	score 4.8438403440224675
+Item ID leadership	score 4.787080909845058
+Item ID project-management	score 4.71949694891257
+Item ID human-resources	score 4.3952324486754915
+Item ID computer-software	score 4.181420256183489
+Item ID research	score 4.002689497687117
+Item ID programming	score 3.9690069200947002
+Item ID sales	score 3.919752168639015
+Item ID education-management	score 3.9120148921261007
+
+User ID ffffbe8d854a4a5a8ab1a381224f5b80 top-10 results
+Item ID telecommunications	score 5.01841721344706
+Item ID leadership	score 4.891936479408027
+Item ID information-technology-and-services	score 4.753963048145025
+Item ID computer-software	score 4.18466205952654
+Item ID information-technology	score 4.109918000833662
+Item ID engineering	score 4.0164657661623675
+Item ID project-management	score 3.995392170347921
+Item ID sales	score 3.862105056180744
+Item ID marketing-and-advertising	score 3.838287719116848
+Item ID marketing	score 3.7523071646726205
+

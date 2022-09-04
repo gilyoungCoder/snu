@@ -1,0 +1,60 @@
+User ID ffca7b070c9d41e98eba01d23a920d52 top-10 results
+Item ID telecommunications	score 4.237920336297771
+Item ID information-technology-and-services	score 3.8752710188873687
+Item ID sales	score 2.9092342228124464
+Item ID leadership	score 2.889139657869975
+Item ID management	score 2.733216698962974
+Item ID programming	score 2.689373673711909
+Item ID project-management	score 2.625676179601907
+Item ID computer-science	score 2.5557881007881007
+Item ID design	score 2.40232548233088
+Item ID human-resources	score 2.254720460572428
+
+User ID ffdb001850984ce69c5f91360ac16e9c top-10 results
+Item ID career-counseling	score 1
+Item ID college	score 1
+Item ID art	score 1
+Item ID career	score 1
+Item ID engineering	score 1
+Item ID engineer	score 1
+Item ID human-resources	score 1
+Item ID education	score 1
+Item ID doctor	score 1
+Item ID medical	score 1
+
+User ID ffdccaff893246519b64d76c3561d8c7 top-10 results
+Item ID telecommunications	score 5.177558327444492
+Item ID sales	score 4.743119797241093
+Item ID information-technology	score 4.7283617329113685
+Item ID project-management	score 4.728290359582905
+Item ID leadership	score 4.725369233290698
+Item ID information-technology-and-services	score 4.468628976525187
+Item ID human-resources	score 4.168392980187839
+Item ID marketing	score 4.065954133585713
+Item ID marketing-and-advertising	score 3.930591819639673
+Item ID management	score 3.929485498054577
+
+User ID ffe2f26d5c174e13b565d026e1d8c503 top-10 results
+Item ID information-technology-and-services	score 4.8385365655166
+Item ID telecommunications	score 4.760438674059953
+Item ID information-technology	score 4.230689259198313
+Item ID project-management	score 4.162871496124935
+Item ID leadership	score 4.05602796055178
+Item ID computer-software	score 3.6925087759462762
+Item ID sales	score 3.5781452540401197
+Item ID programming	score 3.518636253244448
+Item ID marketing	score 3.3499462343212345
+Item ID technology	score 3.328343600843601
+
+User ID ffffbe8d854a4a5a8ab1a381224f5b80 top-10 results
+Item ID telecommunications	score 5.3912536749376585
+Item ID information-technology-and-services	score 5.278560633422217
+Item ID project-management	score 5.0906188297896495
+Item ID leadership	score 5.075009193914726
+Item ID computer-software	score 4.886458443671675
+Item ID sales	score 4.533125406522322
+Item ID human-resources	score 4.30760585256732
+Item ID marketing	score 4.267559523809524
+Item ID education-management	score 4.2662852507623255
+Item ID management	score 4.221713217338218
+
